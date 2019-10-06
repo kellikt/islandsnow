@@ -7,3 +7,19 @@
   border: none;
   box-shadow: none;
 }
+.grey-background {
+  background-color: #4C4F4F;
+  height: 200px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.ui.column {
+  color: white;
+}
+hr {
+  text-shadow: none;
+}
+button.ui.button {
+  color: white;
+  background-color: black;
+}
